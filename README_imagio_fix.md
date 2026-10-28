@@ -1,5 +1,1 @@
-### Common commands
-
-| Task | Command |
-| --- | --- |
-| Build all packages | `pnpm build`
+Automation is deliberately **not** a lane. Each answerable email carries an `autoEligible` flag (reversible, high-confidence
