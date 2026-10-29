@@ -1,1 +1,0 @@
-Automation is deliberately **not** a lane. Each answerable email carries an `autoEligible` flag (reversible, high-confidence,
